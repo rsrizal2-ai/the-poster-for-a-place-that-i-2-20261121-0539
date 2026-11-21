@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+poster.png
+poster.jpg
+poster-pal.png
+media-generation-*.png
+media-generation-*.json
